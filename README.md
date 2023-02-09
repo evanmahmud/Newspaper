@@ -1,2 +1,2 @@
 # Newspaper
-https://evanmahmud.github.io/Newspaper-Revenue-Model/
+https://evanmahmud.github.io/Newspaper-Revenue-Model
